@@ -1,0 +1,195 @@
+header .top {
+  height: 34px;
+  background: #f7f7f7;
+  border-bottom: 1px solid #eee; }
+  header .top .margin {
+    width: 1200px;
+    margin: 0 auto; }
+    header .top .margin .left {
+      float: left; }
+      header .top .margin .left a {
+        font: 12px/34px "";
+        color: #969696; }
+    header .top .margin .right {
+      float: right; }
+      header .top .margin .right a {
+        font: 12px/34px "";
+        color: #969696; }
+
+header .center {
+  height: 77px;
+  width: 1200px;
+  margin: 0 auto; }
+  header .center .logo {
+    float: left;
+    margin-top: 20px;
+    width: 104px;
+    height: 35px;
+    margin-top: 16px; }
+
+header .center {
+  height: 77px;
+  width: 1200px;
+  margin: 0 auto;
+  overflow: hidden; }
+  header .center p {
+    float: right;
+    height: 50px;
+    width: 400px;
+    border: 1px solid #eee;
+    margin-top: 20px; }
+    header .center p a {
+      display: inline-block;
+      font: 16px/50px "";
+      width: 120px;
+      text-align: center;
+      color: #969696; }
+
+header .center {
+  height: 77px;
+  width: 1200px;
+  margin: 0 auto;
+  overflow: hidden; }
+  header .center p {
+    float: right;
+    height: 50px;
+    width: 400px;
+    border: 1px solid #eee;
+    margin-top: 20px; }
+    header .center p a {
+      display: inline-block;
+      font: 16px/50px "";
+      width: 120px;
+      text-align: center;
+      color: #000; }
+    header .center p .frist {
+      background: #95cf21; }
+
+.obox {
+  display: flex;
+  height: 50px;
+  width: 1200px;
+  margin: 0 auto; }
+  .obox h2 {
+    font: 18px/40px; }
+  .obox span {
+    font: 14px/40px "";
+    margin: 0 20px; }
+  .obox p {
+    font: 18px/40px "";
+    margin-left: 10px; }
+  .obox select {
+    height: 30px; }
+
+.bbox {
+  height: 100px;
+  width: 1200px;
+  margin: 0 auto;
+  background: #e5e5e5;
+  overflow: hidden; }
+  .bbox p {
+    text-align: center;
+    font: 18px/20px "";
+    margin-top: 20px; }
+    .bbox p a {
+      color: #95cf21; }
+
+footer {
+  overflow: hidden; }
+  footer .guide {
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 20px;
+    display: flex;
+    height: 180px;
+    border-bottom: #969696 1px solid;
+    border-top: #969696 1px solid; }
+    footer .guide .left {
+      overflow: hidden;
+      width: 350px; }
+      footer .guide .left img {
+        margin-top: 30px; }
+      footer .guide .left em {
+        display: block;
+        font: 16px/20px "";
+        color: #C5C5C5;
+        margin-top: 10px; }
+      footer .guide .left span {
+        display: block;
+        font: 16px/20px "";
+        color: #C5C5C5; }
+
+footer .guide .center {
+  display: flex;
+  width: 600px; }
+  footer .guide .center ul {
+    width: 100px;
+    margin-left: 30px;
+    margin-top: 20px; }
+    footer .guide .center ul li a {
+      font: 16px/32px;
+      color: #707070; }
+    footer .guide .center ul li .frist {
+      font: 18px/32px "";
+      color: #646464; }
+
+footer .guide .right {
+  display: flex;
+  overflow: hidden; }
+  footer .guide .right .sbox {
+    margin: 20px 30px 0 0; }
+    footer .guide .right .sbox .p {
+      text-align: center; }
+    footer .guide .right .sbox img {
+      margin-top: 10px; }
+
+footer {
+  overflow: hidden; }
+  footer .bottom {
+    background: #e5e5e5; }
+    footer .bottom .bbox {
+      width: 1200px;
+      margin: 0 auto;
+      height: 200px; }
+      footer .bottom .bbox .left {
+        float: left;
+        overflow: hidden;
+        width: 600px; }
+        footer .bottom .bbox .left a {
+          display: inline-block;
+          font: 16px/32px "";
+          color: #000;
+          margin-top: 30px; }
+        footer .bottom .bbox .left botimg {
+          margin-top: 30px; }
+
+footer .bottom .bbox .right {
+  float: right;
+  margin-left: 100px; }
+  footer .bottom .bbox .right p {
+    font: 16px/30px "";
+    color: #000; }
+  footer .bottom .bbox .right .frist {
+    margin-top: 30px; }
+  footer .bottom .bbox .right botimg {
+    margin-top: 30px; }
+
+table th {
+  height: 30px;
+  width: 180px;
+  border: 1px solid #969696; }
+
+table {
+  width: 1200px;
+  margin: 0 auto;
+  border: 1px solid #969696; }
+  table tr td {
+    height: 180px;
+    width: 180px;
+    border-right: 1px solid #969696;
+    border-bottom: 1px solid #969696; }
+    table tr td img {
+      width: 160px;
+      height: 160px; }
+
+/*# sourceMappingURL=car.css.map */
